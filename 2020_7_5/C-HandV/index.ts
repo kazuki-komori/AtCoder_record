@@ -20,7 +20,6 @@ export const main = (path) => {
 
     // 何もしなくて良いとき
     if (diff === 0){
-        console.log(1)
         return 1
     }
 
