@@ -3,3 +3,5 @@ node_js:
   - '11'
 script:
   - npm run coveralls
+service_name: travis-pro
+repo_token: nv5hnvFDpixz4CXmGbSm2cs9v4kfx86Ga
