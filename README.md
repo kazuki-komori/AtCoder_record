@@ -7,5 +7,4 @@
 TypeScript で問題を解き、 Jestでテストコードを書いています。
 
 ## Jest Status
-[![Build Status](https://travis-ci.org/kazuki-komori/AtCoder_record.svg?branch=master)](https://travis-ci.org/kazuki-komori/AtCoder_record)
 [![Coverage Status](https://coveralls.io/repos/github/kazuki-komori/AtCoder_record/badge.svg?branch=master)](https://coveralls.io/github/taniarascia/chip8?branch=master)
